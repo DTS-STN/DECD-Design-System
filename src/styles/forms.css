@@ -102,11 +102,6 @@
   opacity: 0.08;
   pointer-events: none;
 }
-
-.ds-accordion-num {
-  line-height: 48px;
-}
-
 /* 
 input[type="radio"]:checked + .ds-label {
   border-color: #0e62c9;
