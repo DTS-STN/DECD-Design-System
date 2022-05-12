@@ -30,7 +30,7 @@
     "prepare": "husky install",
     "prepack": "npm run build",
     "storybook-docs": "start-storybook --docs --no-manager-cache",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "export NODE_OPTIONS=--openssl-legacy-provider && start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
