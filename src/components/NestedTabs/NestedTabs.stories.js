@@ -16,7 +16,7 @@ Default.args = {
       title: "tab1",
       children: (
         <Tabs
-          id="tabs"
+          id="tabs2"
           tabs={[
             {
               title: "tab2",

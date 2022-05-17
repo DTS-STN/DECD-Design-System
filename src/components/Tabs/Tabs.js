@@ -31,7 +31,7 @@ export function Tabs(props) {
       <div className="ds-border ds-border-multi-neutrals-grey90">
         {tabs.map((tab, index) => {
           return (
-            <div className="">
+            <div>
               <div
                 className={
                   toggleState === index + 1

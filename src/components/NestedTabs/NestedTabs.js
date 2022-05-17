@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import React from "react";
-import "./styles.css";
 
 export function NestedTabs(props) {
   const { id, tabs } = props;
