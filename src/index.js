@@ -161,3 +161,13 @@ export { TableContent } from "./components/TableContent/TableContent";
  * Contributors Component
  */
 export { MoreInfo } from "./components/MoreInfo/MoreInfo";
+
+/**
+ * Contributors Component
+ */
+export { Tabs } from "./components/Tabs/Tabs";
+
+/**
+ * Contributors Component
+ */
+export { NestedTabs } from "./components/NestedTabs/NestedTabs";
